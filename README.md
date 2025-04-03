@@ -60,22 +60,22 @@ FoodyZone is a web application designed to provide users with an easy way to bro
 
 ## Screenshots 📸
 
-##Home Page
+### Home Page
 ![Home](https://github.com/user-attachments/assets/33b84b86-d7ab-48d4-b997-b886a90067e6)
 
-##Menu Page
+### Menu Page
 ![Menu](https://github.com/user-attachments/assets/5f25518c-533a-4889-a337-4411c65df234)
 
-##Login Page
+### Login Page
 ![Login](https://github.com/user-attachments/assets/3635788b-7322-40e6-964b-739d37504c5a)
 
-##Cart Page
+### Cart Page
 ![Cart](https://github.com/user-attachments/assets/c510fabd-3dff-46fa-a894-14042005c670)
 
-##Place Order Page
+### Place Order Page
 ![PlaceOrder](https://github.com/user-attachments/assets/a6018d82-4339-4427-bb17-0af43275d861)
 
-##Footer Page
+### Footer Page
 ![Footer](https://github.com/user-attachments/assets/c1933a7d-06ad-459f-8f90-ce8a66316e67)
 
 *Note: Ensure your screenshots are stored in a folder named `screenshots` within the root of your project.*
