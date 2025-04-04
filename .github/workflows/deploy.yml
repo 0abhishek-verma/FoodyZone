@@ -34,7 +34,7 @@ jobs:
 
           cd build
           git init
-          git remote add origin https://0abhishek-verma:${{ secrets.GITHUB_TOKEN }}@github.com/0abhishek-verma/${{github.event.repository.name}}.git
+          git remote add origin https://0abhishek-verma:${{ secrets.GITHUB_TOKEN }}@github.com/0abhishek-verma/FoodyZone.git
           git checkout -b gh-pages
           git add .
           git commit -m "Deploy to gh-pages"
